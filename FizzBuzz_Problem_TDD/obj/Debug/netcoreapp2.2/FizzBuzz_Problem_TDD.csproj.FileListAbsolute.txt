@@ -1,0 +1,14 @@
+C:\WebServiceProject\FizzBuzz_Problem_TDD\FizzBuzz_Problem_TDD\bin\Debug\netcoreapp2.2\FizzBuzz_Problem_TDD.deps.json
+C:\WebServiceProject\FizzBuzz_Problem_TDD\FizzBuzz_Problem_TDD\bin\Debug\netcoreapp2.2\FizzBuzz_Problem_TDD.runtimeconfig.json
+C:\WebServiceProject\FizzBuzz_Problem_TDD\FizzBuzz_Problem_TDD\bin\Debug\netcoreapp2.2\FizzBuzz_Problem_TDD.runtimeconfig.dev.json
+C:\WebServiceProject\FizzBuzz_Problem_TDD\FizzBuzz_Problem_TDD\bin\Debug\netcoreapp2.2\FizzBuzz_Problem_TDD.dll
+C:\WebServiceProject\FizzBuzz_Problem_TDD\FizzBuzz_Problem_TDD\bin\Debug\netcoreapp2.2\FizzBuzz_Problem_TDD.pdb
+C:\WebServiceProject\FizzBuzz_Problem_TDD\FizzBuzz_Problem_TDD\obj\Debug\netcoreapp2.2\FizzBuzz_Problem_TDD.csproj.CoreCompileInputs.cache
+C:\WebServiceProject\FizzBuzz_Problem_TDD\FizzBuzz_Problem_TDD\obj\Debug\netcoreapp2.2\FizzBuzz_Problem_TDD.AssemblyInfoInputs.cache
+C:\WebServiceProject\FizzBuzz_Problem_TDD\FizzBuzz_Problem_TDD\obj\Debug\netcoreapp2.2\FizzBuzz_Problem_TDD.AssemblyInfo.cs
+C:\WebServiceProject\FizzBuzz_Problem_TDD\FizzBuzz_Problem_TDD\obj\Debug\netcoreapp2.2\FizzBuzz_Problem_TDD.dll
+C:\WebServiceProject\FizzBuzz_Problem_TDD\FizzBuzz_Problem_TDD\obj\Debug\netcoreapp2.2\FizzBuzz_Problem_TDD.pdb
+C:\WebServiceProject\FizzBuzz_Problem_TDD\FizzBuzz_Problem_TDD\bin\Debug\netcoreapp2.2\FizzBuzz.Library.dll
+C:\WebServiceProject\FizzBuzz_Problem_TDD\FizzBuzz_Problem_TDD\bin\Debug\netcoreapp2.2\FizzBuzz.Library.pdb
+C:\WebServiceProject\FizzBuzz_Problem_TDD\FizzBuzz_Problem_TDD\obj\Debug\netcoreapp2.2\FizzBuzz_Problem_TDD.csprojAssemblyReference.cache
+C:\WebServiceProject\FizzBuzz_Problem_TDD\FizzBuzz_Problem_TDD\obj\Debug\netcoreapp2.2\FizzBuzz_Problem_TDD.csproj.CopyComplete

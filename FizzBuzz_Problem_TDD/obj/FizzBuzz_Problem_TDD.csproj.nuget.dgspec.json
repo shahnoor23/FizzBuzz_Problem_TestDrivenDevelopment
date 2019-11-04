@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\WebServiceProject\\FizzBuzz_Problem_TDD\\FizzBuzz_Problem_TDD\\FizzBuzz_Problem_TDD.csproj": {}
+  },
+  "projects": {
+    "C:\\WebServiceProject\\FizzBuzz_Problem_TDD\\FizzBuzz.Library\\FizzBuzz.Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\WebServiceProject\\FizzBuzz_Problem_TDD\\FizzBuzz.Library\\FizzBuzz.Library.csproj",
+        "projectName": "FizzBuzz.Library",
+        "projectPath": "C:\\WebServiceProject\\FizzBuzz_Problem_TDD\\FizzBuzz.Library\\FizzBuzz.Library.csproj",
+        "packagesPath": "C:\\Users\\Shahnoor Khalidi\\.nuget\\packages\\",
+        "outputPath": "C:\\WebServiceProject\\FizzBuzz_Problem_TDD\\FizzBuzz.Library\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shahnoor Khalidi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\WebServiceProject\\FizzBuzz_Problem_TDD\\FizzBuzz_Problem_TDD\\FizzBuzz_Problem_TDD.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\WebServiceProject\\FizzBuzz_Problem_TDD\\FizzBuzz_Problem_TDD\\FizzBuzz_Problem_TDD.csproj",
+        "projectName": "FizzBuzz_Problem_TDD",
+        "projectPath": "C:\\WebServiceProject\\FizzBuzz_Problem_TDD\\FizzBuzz_Problem_TDD\\FizzBuzz_Problem_TDD.csproj",
+        "packagesPath": "C:\\Users\\Shahnoor Khalidi\\.nuget\\packages\\",
+        "outputPath": "C:\\WebServiceProject\\FizzBuzz_Problem_TDD\\FizzBuzz_Problem_TDD\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shahnoor Khalidi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\WebServiceProject\\FizzBuzz_Problem_TDD\\FizzBuzz.Library\\FizzBuzz.Library.csproj": {
+                "projectPath": "C:\\WebServiceProject\\FizzBuzz_Problem_TDD\\FizzBuzz.Library\\FizzBuzz.Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

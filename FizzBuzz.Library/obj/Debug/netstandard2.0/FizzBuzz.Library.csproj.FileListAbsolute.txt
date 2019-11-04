@@ -1,0 +1,9 @@
+C:\WebServiceProject\FizzBuzz_Problem_TDD\FizzBuzz.Library\bin\Debug\netstandard2.0\FizzBuzz.Library.deps.json
+C:\WebServiceProject\FizzBuzz_Problem_TDD\FizzBuzz.Library\bin\Debug\netstandard2.0\FizzBuzz.Library.dll
+C:\WebServiceProject\FizzBuzz_Problem_TDD\FizzBuzz.Library\bin\Debug\netstandard2.0\FizzBuzz.Library.pdb
+C:\WebServiceProject\FizzBuzz_Problem_TDD\FizzBuzz.Library\obj\Debug\netstandard2.0\FizzBuzz.Library.csproj.CoreCompileInputs.cache
+C:\WebServiceProject\FizzBuzz_Problem_TDD\FizzBuzz.Library\obj\Debug\netstandard2.0\FizzBuzz.Library.AssemblyInfoInputs.cache
+C:\WebServiceProject\FizzBuzz_Problem_TDD\FizzBuzz.Library\obj\Debug\netstandard2.0\FizzBuzz.Library.AssemblyInfo.cs
+C:\WebServiceProject\FizzBuzz_Problem_TDD\FizzBuzz.Library\obj\Debug\netstandard2.0\FizzBuzz.Library.dll
+C:\WebServiceProject\FizzBuzz_Problem_TDD\FizzBuzz.Library\obj\Debug\netstandard2.0\FizzBuzz.Library.pdb
+C:\WebServiceProject\FizzBuzz_Problem_TDD\FizzBuzz.Library\obj\Debug\netstandard2.0\FizzBuzz.Library.csprojAssemblyReference.cache
